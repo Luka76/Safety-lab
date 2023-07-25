@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    flex:1;
+    align-items: center;
+    padding-top: 30px;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.card img{
+    width: 375px;
+    height: 435px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.card p{
+    max-width: 400px;
+    text-align: center;
+    font-size: large;
+    font-family: "Nunito";
+    font-size: x-large;
+    font-weight: 700;
+}
