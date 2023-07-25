@@ -10,7 +10,7 @@ const Card = () => {
       <p>
         Cišćenje krovova visokotlačnim aparatima te upotrijebom kemijskih
         sredstava koji omogućuju i produžuju ispravnost Vašeg krova za dodatnih
-        nekoliko godina
+        nekoliko godina, i sve to brzo i lako
       </p>
     </div>
   );
