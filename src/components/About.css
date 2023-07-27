@@ -1,0 +1,39 @@
+.about__container {
+  width: 100%;
+  margin: 0;
+}
+
+.about__section {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.about__section img {
+  display: block;
+  width: 600px;
+  aspect-ratio: 2/1;
+  object-fit: cover;
+object-position: center;
+}
+
+.about__info{
+    position: absolute;
+}
+
+.about__info h2 {
+  text-align: center;
+  color: var(--secondary-color);
+}
+
+.about__info p {
+  margin: auto;
+  max-width: 520px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--secondary-color);
+}

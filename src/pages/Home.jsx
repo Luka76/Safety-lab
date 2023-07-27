@@ -1,4 +1,4 @@
-import {Hero, Navbar, Footer, About} from "../components/index"
+import {Hero, Navbar, Footer, About, References} from "../components/index"
 
 const Home = () => {
   return (
@@ -6,6 +6,7 @@ const Home = () => {
       <Navbar />
       <About />
       <Hero />
+      <References />
       <Footer />
     </>
   )

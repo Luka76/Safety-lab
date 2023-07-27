@@ -11,6 +11,7 @@
 
   --primary-color: #15EDA3;
   --secondary-color: #0D0D66;
+  --glassy:rgba(13,13,102,0.4);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -31,6 +32,7 @@ a:hover {
 body {
   margin: 0;
   font-family: 'Nunito', sans-serif;
+  background-color: var(--primary-color);
 }
 
 h1 {

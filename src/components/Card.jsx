@@ -8,7 +8,7 @@ const Card = () => {
       <img src={work} alt="work" />
       </div>
       <p>
-        Cišćenje krovova visokotlačnim aparatima te upotrijebom kemijskih
+        Čišćenje krovova visokotlačnim aparatima te upotrijebom kemijskih
         sredstava koji omogućuju i produžuju ispravnost Vašeg krova za dodatnih
         nekoliko godina, i sve to brzo i lako
       </p>
